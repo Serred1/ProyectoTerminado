@@ -1,0 +1,15 @@
+/*Bottom de consulta*/
+#consulta{
+    background-image:url('../img/pregunta.png') ;
+    border-radius: 20px;
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+  
+  }
+  .consulta-text{
+    color: azure;
+    text-shadow: 2px;
+    text-shadow:  0.1em 0.1em #333;
+  }
+  
